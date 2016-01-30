@@ -43,3 +43,4 @@ and
 - `robbins_etl_06724-0001-Data-Analysis-1994.xlsx`
 - Each of these files can be found at: https://github.com/robbinsr/ETL_2/tree/master/DS1_Household/DS0001
 
+Please feel free to move to the ETL_3 repository at this point, or at a future moment of your convenience.
