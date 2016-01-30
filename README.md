@@ -34,7 +34,7 @@ Outputs of Step 2
 
  - `06724-Codebook.pdf` 
  - `06724-0001-Data.txt` 
- - both at https://github.com/robbinsr/ETL_2/tree/master/transforming_household/from_step_1
+- Each of these files can be found at https://github.com/robbinsr/ETL_2/tree/master/transforming_household/to_step_3
  -  
 and 
 
@@ -44,6 +44,6 @@ and
 - `robbins_etl_06724-0001-Data-Crosswalk-1994.xlsx`
 - `robbins_etl_06724-0001-Data-Analysis-1994.accdb`
 - `robbins_etl_06724-0001-Data-Analysis-1994.xlsx`
-- Each of these files can be found at: https://github.com/robbinsr/ETL_2/tree/master/DS1_Household/DS0001
+- Each of these files can be found at https://github.com/robbinsr/ETL_2/tree/master/transforming_household/to_step_3
 
 Please feel free to move to the ETL_3 repository at this point, or at a future moment of your convenience.
