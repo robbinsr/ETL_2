@@ -10,8 +10,10 @@ You are reading the README.md file in the `ETL_2` repository for Russ Robbins. T
 Inputs to Step 2
 ===
 
- - `06724-Codebook.pdf` in https://github.com/robbinsr/ETL_1/tree/master/DS1_Household 
- - `06724-0001-Data.txt` in https://github.com/robbinsr/ETL_1/tree/master/DS1_Household/DS0001
+ - `06724-Codebook.pdf` 
+ - `06724-0001-Data.txt`
+ - both at https://github.com/robbinsr/ETL_2/tree/master/transforming_household/from_step_1
+
 
 Processing for Step 2
 ===
@@ -30,9 +32,10 @@ Outputs of Step 2
 
 **Pass through from Step 1**
 
- - `06724-Codebook.pdf` in https://github.com/robbinsr/ETL_2/tree/master/DS1_Household 
- - `06724-0001-Data.txt` in https://github.com/robbinsr/ETL_2/tree/master/DS1_Household/DS0001
-
+ - `06724-Codebook.pdf` 
+ - `06724-0001-Data.txt` 
+ - both at https://github.com/robbinsr/ETL_2/tree/master/transforming_household/from_step_1
+ -  
 and 
 
 **New files**
