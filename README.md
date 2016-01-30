@@ -46,4 +46,6 @@ and
 - `robbins_etl_06724-0001-Data-Analysis-1994.xlsx`
 - Each of these files can be found at https://github.com/robbinsr/ETL_2/tree/master/transforming_household/to_step_3
 
+More information about step 2 can be found at `transforming_household` (and its subdirectories) at https://github.com/robbinsr/ETL_2/tree/master/transforming_household .
+
 Please feel free to move to the ETL_3 repository at this point, or at a future moment of your convenience.
