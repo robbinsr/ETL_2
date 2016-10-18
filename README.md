@@ -34,9 +34,7 @@ Outputs of Step 2
 
  - `06724-Codebook.pdf` 
  - `06724-0001-Data.txt` 
-- Each of these files can be found at https://github.com/robbinsr/ETL_2/tree/master/transforming_household/to_step_3
- -  
-and 
+ - Each of these files can be found at https://github.com/robbinsr/ETL_2/tree/master/transforming_household/to_step_3 
 
 **New files**
 
